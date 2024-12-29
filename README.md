@@ -47,3 +47,14 @@ MultimodalCancerTherapy/
 
 
 
+## Dataset Table
+
+| Dataset   | Type          | Description                        | Link         |
+|-----------|---------------|------------------------------------|--------------|
+| TCIA      | Imaging       | Radiological images (CT, MRI)     | [Visit Site](https://www.cancerimagingarchive.net/) |
+| MIMIC-CXR | Imaging, Text | Chest X-rays and radiology reports| [Visit Site](https://physionet.org/content/mimic-cxr/2.0.0/) |
+| TCGA      | Omics         | Genomics and proteomics data      | [Visit Site](https://portal.gdc.cancer.gov/) |
+
+
+
+
